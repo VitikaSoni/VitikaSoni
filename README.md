@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitika9&theme=tokyonight&layout=compact&hide=dart,swift,html,objective-c)
 
-(Language stats don't include my contributions)
-
 
