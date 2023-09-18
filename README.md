@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!---
 - 📑 I'm a student from Indore, India
 - 🔭 I'm currently doing my SDE internship at BlendNet
 - 🌱 My GSoC projects: 
@@ -7,6 +8,7 @@
   - [Import Postman API Definitions into OWASP ZAP](https://summerofcode.withgoogle.com/archive/2023/projects/OlBxaE5X)
 - 📫 [My Links](https://bio.link/vitika)
 - 😄 Pronouns: she/her
+-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitikasoni&show_icons=true&locale=en" alt="vitikasoni" /></p>
 
